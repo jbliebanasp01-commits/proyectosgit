@@ -27,7 +27,7 @@ public class Tema4Ejercicio1 {
     
      public static void comprobarNumero(int num){
          if (num > 0) {
-             System.out.println(" El numero introducido es negativo ");
+             System.out.println(" El numero introducido es positivo ");
              
          }else if (num < 0 ){
              System.out.println(" El numero introducido es negativo");
