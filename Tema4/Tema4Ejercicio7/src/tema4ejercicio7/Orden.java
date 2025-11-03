@@ -20,7 +20,7 @@ public class Orden {
             if (c > d) { temp = c; c = d; d = temp; }
         }
 
-        System.out.println("El orden de los números introducidos es: "
-                + a + " - " + b + " - " + c + " - " + d);
+        System.out.println("El orden de los números introducidos es: " + a + " - " + b + " - " + c + " - " + d);
+                
     }
 }

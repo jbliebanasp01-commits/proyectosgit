@@ -15,7 +15,7 @@ public class Tema4Ejercicio7 {
      */
     public static void main(String[] args) {
         Scanner entrada = new Scanner (System.in);
-        
+        //Decimos al usuario que introduzca cuatro numeros
         System.out.println( " Por favor , introduzca el primer numero");
         int num1 = entrada.nextInt();
         
